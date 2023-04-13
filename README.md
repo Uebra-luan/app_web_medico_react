@@ -5,3 +5,8 @@ Para a configuração do ambiente de execução, tem que instalar os seguintes p
 ```
 npm install react
 ```
+
+<ol>
+  <li> Teste </li>
+  <li> Execução </li>
+</ol>  
