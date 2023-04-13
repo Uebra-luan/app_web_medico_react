@@ -7,6 +7,6 @@ npm install react
 ```
 
 <ol>
-  <li><li> Teste </li></li>
-  <li> Execução </li>
+  <li>Teste </li>
+  <li = 1.1> Execução </li>
 </ol>  
