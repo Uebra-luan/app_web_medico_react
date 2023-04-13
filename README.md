@@ -2,6 +2,6 @@
 
 Para a configuração do ambiente de execução, tem que instalar os seguintes programas:
 
-'''
+´´´
 npm install react
-'''
+´´´
