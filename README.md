@@ -1,4 +1,3 @@
-# app_web_medico_react
 <h1>Aplicativo mobile Web com React</h1>
 
 Para a configuração do ambiente de execução, tem que instalar os seguintes programas:
