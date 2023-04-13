@@ -8,5 +8,5 @@ npm install react
 
 <ol>
   <li>Teste </li>
-  <li = 1.1> Execução </li>
+  <li> Execução </li>
 </ol>  
